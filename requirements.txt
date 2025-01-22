@@ -1,4 +1,6 @@
-opencv-python
-face-recognition
-numpy
-pillow 
+face_recognition==1.3.0
+opencv-python==4.8.1.78
+numpy==1.26.3
+pillow
+ultralytics==8.0.227
+pyyaml==6.0.1 
